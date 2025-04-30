@@ -1,0 +1,50 @@
+* {
+    font-family: Garamond, Georgia, serif;
+}
+
+h1 {
+    font-family: Garamond, Georgia, serif;
+    font-size: xx-large;
+    font-weight: 800;
+    text-align: center;
+}
+
+h2 {
+    font-family: Garamond, Georgia, serif;
+    font-size: larger;
+    font-weight: 600;
+    padding: 20px 0 5px 0;
+}
+
+h3 {
+    font-family: Garamond, Georgia, serif;
+    font-size: large;
+    font-weight: 400;
+}
+
+.recipe-nav {
+    font-size: large;
+    display: inline-block;
+    text-align: center;
+    box-sizing: content-box;
+    height: 100px;
+    width: 100px;
+    padding: 70px 70px 0px 70px;
+    margin: 10px;
+    background-color: bisque;
+}
+
+a {
+    font-weight: 400;
+    color: white;
+    background-color: rgb(98, 98, 98);
+    font-family: "Courier New", monospace;
+}
+
+.top-card,
+.recipe-card {
+    margin: 20px;
+    padding: 30px;
+    background-color: bisque;
+}
+
